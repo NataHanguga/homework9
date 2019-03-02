@@ -1,0 +1,23 @@
+{
+  "name": "homework-9",
+  "version": "1.0.0",
+  "description": "server for todoList",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NataHanguga/homework9.git"
+  },
+  "author": "Nata Hanguga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NataHanguga/homework9/issues"
+  },
+  "homepage": "https://github.com/NataHanguga/homework9#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "shortid": "^2.2.14"
+  }
+}
